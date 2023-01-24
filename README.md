@@ -1,4 +1,4 @@
-# poc-tsup-tailwind-storybook
+# poc-tsup-tailwind-storybook-pnpm
 
 Created this repository to study the https://tsup.egoist.dev and https://pnpm.io/
 
